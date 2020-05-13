@@ -12,8 +12,8 @@ from aspose3dcloud.apis.three_d_cloud_api import ThreeDCloudApi
 from aspose3dcloud.api_client import ApiClient
 
 grantType = "client_credentials"
-clientId = "threed.cloud"
-clientSecret = "threed.cloud"
+clientId = "****your AppID****"
+clientSecret = "****your AppKey****"
 threeDCloudApi=None
 
 def GetThreeDCloudApi():

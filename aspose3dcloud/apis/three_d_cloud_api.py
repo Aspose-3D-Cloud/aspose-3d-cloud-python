@@ -45,7 +45,7 @@ class ThreeDCloudApi(object):
         self.api_client.set_default_header("Authorization", "Bearer " + self.access_token)
 
     def get_access_token(self,grant_type,appsid,appkey):
-        authApiClient=ApiClient('https://api-qa.aspose.cloud')
+        authApiClient=ApiClient('https://api.aspose.cloud')
         client=OAuthApi(authApiClient)
         auth_data=client.o_auth_post(grant_type, appsid, appkey)
         return auth_data.access_token
