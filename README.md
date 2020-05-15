@@ -36,4 +36,8 @@ HTML
 
 Firstly, create an account at [Aspose for Cloud](https://dashboard.aspose.cloud/#/apps) to get your application information and free quota to use the API. Now execute `pip install aspose3dcloud` from the command line to fetch the SDK. The complete source code is available at [GitHub Repository](https://github.com/aspose-3d-cloud/aspose-3d-cloud-python).
 
+## Licensing
+
+All Aspose.3D Cloud SDKs are licensed under [MIT License](https://github.com/aspose-3d-cloud/aspose-3d-cloud-python/blob/master/LICENSE).
+
 [Product Page](https://products.aspose.cloud/3d/python) | [Documentation](https://docs.aspose.cloud/display/3dcloud/Home) | [Demo](https://products.aspose.cloud/3d/family) | [API Reference](https://apireference.aspose.cloud/3d/) | [Examples](https://github.com/aspose-3d-cloud/aspose-3d-cloud-python) | [Blog](https://blog.aspose.cloud/category/3d/) | [Free Support](https://forum.aspose.cloud/c/3d) | [Free Trial](https://dashboard.aspose.cloud/#/apps)
