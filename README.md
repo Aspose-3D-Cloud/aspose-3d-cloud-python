@@ -2,7 +2,7 @@
 
 # Ruby SDK for 3D File Formats
 
-[Aspose.3D Cloud SDK for Python](https://products.aspose.cloud/3d/python) empowers your PHP applications to connect with 3D document formats. The APIs let engineers read, convert, build, alter and control the substance of the [3D document formats](https://docs.aspose.cloud/3d/supported-document-formats/) in the Cloud. All without any 3D modeling and rendering software installed on the machine.
+[Aspose.3D Cloud SDK for Python](https://products.aspose.cloud/3d/python) empowers your Python applications to connect with 3D document formats. The APIs let engineers read, convert, build, alter and control the substance of the [3D document formats](https://docs.aspose.cloud/3d/supported-document-formats/) in the Cloud. All without any 3D modeling and rendering software installed on the machine.
 
 ## Process 3D Objects & Files in the Cloud
 
@@ -31,7 +31,7 @@
 
 HTML
 
-## Get Started with Aspose.3D Cloud SDK for Ruby
+## Get Started with Aspose.3D Cloud SDK for Python
 
 Register an account at [Aspose Cloud Dashboard](https://dashboard.aspose.cloud/#/apps) to get you application information. Next, execute `pip install aspose3dcloud` from the command line to fetch the SDK. You are all set!
 
