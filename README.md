@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/api-v3.0-lightgrey) [![GitHub license](https://img.shields.io/github/license/aspose-3d-cloud/aspose-3d-cloud-python)](https://github.com/aspose-3d-cloud/aspose-3d-cloud-python/blob/master/LICENSE) ![GitHub last commit](https://img.shields.io/github/last-commit/Aspose-3D-Cloud/aspose-3d-cloud-python) ![PyPI](https://img.shields.io/pypi/v/aspose3dcloud) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/aspose3dcloud) ![PyPI - Implementation](https://img.shields.io/pypi/implementation/aspose3dcloud) 
+![](https://img.shields.io/badge/api-v3.0-lightgrey) [![GitHub license](https://img.shields.io/github/license/aspose-3d-cloud/aspose-3d-cloud-python)](https://github.com/aspose-3d-cloud/aspose-3d-cloud-python/blob/master/LICENSE) ![GitHub last commit](https://img.shields.io/github/last-commit/Aspose-3D-Cloud/aspose-3d-cloud-python) ![PyPI](https://img.shields.io/pypi/v/aspose3dcloud) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/aspose3dcloud) ![PyPI - Implementation](https://img.shields.io/pypi/implementation/aspose3dcloud)
 
 # Ruby SDK for 3D File Formats
 
@@ -30,6 +30,10 @@
 ## Write 3D Formats As
 
 HTML
+## Enhancements Version 20.5
+- Added support to read/write more file formats.
+- Added support for HTML file format conversion.
+- New feature added to Triangulate part of the scene (Specified by OAP) and save the scene to a different file.
 
 ## Get Started with Aspose.3D Cloud SDK for Python
 
